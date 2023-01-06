@@ -67,8 +67,6 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](img/doc/screenshot.jpeg)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -347,7 +345,6 @@ Distributed under the Apache License 2.0. See the `LICENSE` file for more inform
 
 ## Contact
 
-Project Link: [https://github.com/KiarashS/XLab](https://github.com/KiarashS/XLab)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
