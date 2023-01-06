@@ -48,20 +48,19 @@
                 </div>
                 <div class="divider"></div>
                 <div class="right-part">
-                    <h4 class="item-title">It is our pleasure to inform you that our paper: <a href="https://arxiv.org/abs/2204.01701" target="_blank">QuadraLib: A Performant Quadratic Neural Network Library for Architecture Optimization and Design Exploration</a> is recognized as one of the top 5 outstanding papers in the <a href="https://mlsys.org/Conferences/2022/Schedule?showEvent=2059" target="_blank">MLSys</a> conference.</h4>
+                    <p class="item-title">It is our pleasure to inform you that our paper: <a href="https://arxiv.org/abs/2204.01701" target="_blank">QuadraLib: A Performant Quadratic Neural Network Library for Architecture Optimization and Design Exploration</a> is recognized as one of the top 5 outstanding papers in the <a href="https://mlsys.org/Conferences/2022/Schedule?showEvent=2059" target="_blank">MLSys</a> conference.</p>
                 </div>
             </div>
         </div>
-        <div class="timeline timeline-second-style clearfix">
-            <div class="timeline-item clearfix">
+         <div class="timeline timeline-second-style clearfix">
+            <div class="timeline-item clearfix pb-3">
                 <div class="left-part">
-                    <h5 class="item-period">5/5/2022</h5>
-                    <span class="item-company"><span class="badge bg-success"><i class="fa-regular fa-newspaper"></i> Publication</span></span>
+                    <h5 class="item-period">3/12/2022</h5>
+                    <span class="item-company"><span class="badge bg-success"><i class="fa-regular fa-newspaper"></i> Award</span></span>
                 </div>
                 <div class="divider"></div>
                 <div class="right-part">
-                    <h4 class="item-title">We published a paper. <a href="https://www.theregister.com/2022/05/05/stock_market_twitter/" target="_blank">Read more</a>.</h4>
-                    <p><a href="https://arxiv.org/abs/2205.01094" target="_blank">A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction</a></p>
+                    <p class="item-title">It is our pleasure to inform you that our team won 1st place at the 2022 <a href="https://mlsys.org/Conferences/2022/Schedule?showEvent=2059" target="_blank">MLSys</a> conference.</p>
                 </div>
             </div>
         </div>

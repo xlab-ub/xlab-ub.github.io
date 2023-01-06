@@ -1,16 +1,8 @@
 <div class="block-title"><h3>Part of a Journey, but not the Destination</h3></div>
 <br>
 
-<!-- <div class="accordion accordion-flush" id="recognitionsAccordion">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Best Paper Awards
-      </button>
-    </h2>
-    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#recognitionsAccordion">
-      <div class="accordion-body"> -->
-<button class="collapsible">Best Paper Awards</button>
+<details open>
+<summary class="collapsible">Best Paper Award</summary>
 <div class="col-content">
       
 1. Best Student Paper Award, "The Design and Implementation of a Scalable DL Benchmarking Platform," IEEE International Conference on Cloud Computing (CLOUD), Oct 2020
@@ -20,9 +12,15 @@
 5. Best Paper in Track Award, "Variation Aware Optimal Threshold Voltage Computation for On-chip Noise Sensors," ACM/IEEE International Conference on Computer-Aided Design (ICCAD), Nov 2014
 6. Best Paper Award, "Robust Extraction of Spatial Correlation," ACM/IEEE International Symposium on Physical Design (ISPD), April 2006
 7. Best Student Paper Award, "Performance Optimization Global Routing with RLC Crosstalk Constraints," IEEE International Conference on Application Specific Integrated Circuits (ASICON), Oct 2003
-      </div>
-<button class="collapsible">Best Paper Award Nominations</button>
+</div>
+</details>
+
+<br />
+
+<details>
+<summary class="collapsible">Best Paper Award Nominations</summary>
 <div class="col-content">
+
 1. Application-Transparent Near-Memory Processing Architecture with Memory Channel Network,'' The 51st Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'51), Oct 2018
 2. Path Criticality Computation in Parameterized Statistical Timing Analysis,''  IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Jan 2011
 3. Optimal Statistical Chip Disposition,'' ACM/IEEE International Conference on Computer Aided Design (ICCAD), Nov 2011
@@ -31,16 +29,25 @@
 6. Statistical Path Selection for At-Speed Test,'' ACM/IEEE International Conference on Computer Aided Design (ICCAD), Nov 2008
 7. Compact Modeling of Variational Waveforms,'' ACM/IEEE International Conference on Computer Aided Design (ICCAD), Nov 2007
 8. Efficient Decoupling Capacitance Budgeting Considering Current Correlation Including Process Variation,'' ACM/IEEE International Conference on Computer Aided Design (ICCAD), Nov 2007
-      </div>
-<button class="collapsible">Best Poster Awards</button>
+</div>
+</details>
+
+<br />
+
+<details>
+<summary class="collapsible">Best Poster Awards</summary>
 <div class="col-content">
 
 1. SPGNet: Semantic Prediction Guidance for Scene Parsing,'' IBM AI Horizons Colloquium, Sept 2019
 2. A Bi-Directional Co-Design Approach to Enable Deep Learning on IoT Devices,'' Thirty-sixth International Conference on Machine Learning (ICML'19) Joint Workshop on On-Device Machine Learning and Compact Deep Neural Network Representations (ODML-CDNNR), June 2019
 3. DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs,'' IBM AI Horizons Colloquium, Oct 2018
-      </div>
+</div>
+</details>
 
-<button class="collapsible">International Competition Awards</button>
+<br />
+
+<details>
+<summary class="collapsible">International Competition Awards</summary>
 <div class="col-content">
 
 1. Student Innovation Award, "HyKernel: A Hybrid Selection of One/Two-Phase Kernels for Triangle Counting on GPUs," <a href="https://graphchallenge.mit.edu/champions" target="_blank">IEEE-HPEC MIT and Amazon GraphChallenge</a>, Sept 2021
@@ -57,9 +64,13 @@
 12. The First Place Award, "Single-Person Human Parsing Task," 2018 CVPR Challenge on "Look Into Person (LIP)," The 30th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2018
 13. The First Place Award, "Multi-Person Human Parsing Task," 2018 CVPR Challenge on "Look Into Person (LIP)," The 30th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2018
 14. Honorable Mention, "Collaborative (CPUT+GPU) algorithms for triangle counting and truss decomposition on the Minsky architecture," <a href="https://graphchallenge.mit.edu/champions" target="_blank">IEEE-HPEC MIT and Amazon GraphChallenge</a>, Sept 2017
-      </div>
+</div>
+</details>
 
-<button class="collapsible">Professional Awards</button>
+<br />
+
+<details>
+<summary class="collapsible">Professional Awards</summary>
 <div class="col-content">
 
 1. The Thirteenth Invention Plateau Achievement Award, IBM Research, June 2021
@@ -84,4 +95,5 @@
 20. Research Division Award, for Contributions to Statistical Timing IP Revenue, IBM Research, 2007
 21. The First Invention Plateau Achievement Award, IBM Research, April 2007
 22. Beijing Science and Technology Bronze Award, “Embedded System Design for Mass Optical Storage Systems,” The Government of Beijing, China, 2002
-      </div>
+</div>
+</details>

@@ -11,20 +11,7 @@ function customScroller() {
     }
 }
 
-  var coll = document.getElementsByClassName("collapsible");
-  var i;
-  
-  for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var content = document.getElementsByClassName("col-content");
-      if (content.style.maxHeight){
-        content.style.maxHeight = null;
-      } else {
-        content.style.maxHeight = '700' + "px";
-      } 
-    });
-  }
+
 
 document.addEventListener("DOMContentLoaded", function () {
     axios.all([axios.get("./sections/home.md"),
@@ -89,7 +76,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
             const tooltipTriggerListAjax = document.querySelectorAll('[data-bs-toggle="tooltip"]');
             const tooltipListAjax = [...tooltipTriggerListAjax].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl));
-        }))
+        
+          }))
         .catch(error => console.log(error));
 }, false);
 

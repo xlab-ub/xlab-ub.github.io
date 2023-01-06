@@ -501,8 +501,7 @@ h5 {
     -ms-transition: background 0.3s linear;
     transition: background 0.3s linear;
 }
-.content-active {
-}
+
 .content:hover .jspVerticalBar, .menu nav:hover .jspVerticalBar {
     opacity: 1;
 }
@@ -621,7 +620,6 @@ a.totop-link {
    ========================================================================== */
 
 .about {
-    background: url(../images/about.jpg) no-repeat 100% 0  #67708f;
     background-size: contain;
 }
 
@@ -790,7 +788,8 @@ a.totop-link {
       font-family:sans-serif;
     }
     .collapsible {
-        background-color: #777;
+        /* background-color: #777; */
+        background-color: #606885;
         color: white;
         cursor: pointer;
         padding: 18px;
@@ -811,6 +810,10 @@ a.totop-link {
         overflow: hidden;
         transition: max-height 0.2s ease-out;
       }
+
+.recog-con {
+    height: 2600px;
+}
 .experience-con .icon-block i {
     font-size: 60px;
     color: #bead74;
@@ -852,6 +855,10 @@ a.totop-link {
 /* ==========================================================================
    #Education Screen
    ========================================================================== */
+
+.education-con {
+    height: 1950px;
+}
 .education-con .icon-block i {
     font-size: 60px;
     color: #bead74;
@@ -960,7 +967,7 @@ a.totop-link {
    #Last Screen
    ========================================================================== */
 .introduction-end {
-    background: url(../images/profile-big.jpg)no-repeat right top;
+    /* background: url(../images/profile-big.jpg)no-repeat right top; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

@@ -18,8 +18,8 @@
    ========================================================================== */
    
 .jspContainer {
-	overflow: hidden;
 	position: relative;
+	overflow: hidden
 }
 .jspPane {
 	position: absolute;

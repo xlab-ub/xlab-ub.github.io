@@ -1,15 +1,20 @@
 <div class="block-title"><h3>For it's our community</h3></div>
 <br>
 
-<button class="collapsible">Editorship</button>
+<details open>
+<summary class="collapsible">Editorship</summary>
 <div class="col-content">
       
 1. Associate Editor, ACM Transactions on Reconfigurable Technology and Systems (TRETS), March 2019 - present
 2. Associate Editor, IET Cyber-Physical Systems: Theory & Applications, 2017 - present
 3. Guest Editor, The special issue of IEEE Design and Test on "Machine Intelligence at the Edge," Publication date: Dec 2021 (tentative)
 4. Guest Editor, The special issue of the IBM Journal of Research and Development on "Advances in Computational Creativity Technology," Volume: 63 , Issue: 1 , Jan.-Feb. 2019
-      </div>
-      <button class="collapsible">Conference and Workshop Chairs and Co-Chairs</button>
+</div>
+</details>
+<br>
+
+<details>
+<summary class="collapsible">Conference and Workshop Chairs and Co-Chairs</summary>
 <div class="col-content">
 
 1. Tutorial Chair, International Conference On Computer Aided Design (ICCAD), 2021
@@ -32,9 +37,15 @@
 18. General Chair, ACM/IEEE International Workshop on Timing Issues, 2013
 19. Technical Program Chair, ACM/IEEE International Workshop on Timing Issues, 2012
 20. Program Chair, DAC Workshop on Synergies between Design Automation and Smart Power Grid, 2011, 2010
-      </div>
-      <button class="collapsible">Technical Program Committees</button>
+
+</div>
+</details>
+<br>
+
+<details>
+<summary class="collapsible">Technical Program Committees</summary>
 <div class="col-content">
+
 1. TPC, The Fifth Conference on Machine Learning and Systems (MLSys), 2022
 2. TPC, Conference on Neural Information Processing Systems (NeurIPS), 2021
 3. TPC, The 48th IEEE/ACM International Symposium on Computer Architecture (ISCA-48), Industry Track, 2021
@@ -52,7 +63,11 @@
 15. TPC, ACM/IEEE International Workshop on Timing Issues, 2007-2011
 16. TPC, 18th IEEE North Atlantic Test Workshop, 2009
       </div>
-    <button class="collapsible">Community Services</button>
+    </details>
+<br>
+
+<details>
+<summary class="collapsible">Community Services</summary>
 <div class="col-content">
  
 1. Secretary, Chinese Institute of Engineers, Greater New York Chapter, 2021-present
@@ -68,7 +83,11 @@
 11. Program Committee Member for Tri-County Science & Technology Fair Judge's Committee, 2009-2010
       </div>
 
-<button class="collapsible">Departmental Services @ UB</button>
+</details>
+<br>
+
+<details>
+<summary class="collapsible">Departmental Services @ UB</summary>
 <div class="col-content">
  
 1. Co-Chair, Student Engagement and Experiential Learning Comitteee (2021 - present)
@@ -76,6 +95,6 @@
 3. Member, Graduate Affairs Committeee (2021 - present)
 4. Member, Graduate Admissions Committee (2021 - present)
 5. Member, SEAS Qualified Rank Promo Committee, (2021 - present)
-      </div>
-
+</div>
+</details>
 </div>
