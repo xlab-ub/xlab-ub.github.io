@@ -56,7 +56,7 @@
         <div class="details">
           <span class="title">Patents</span>
         </div>
-        <p>1. Lorem ipsum dolor Paper 1</p>
+        <p>"Global Prosody Style Transfer Without Text Transcriptions" P202102159US01</p>
         <div class="bottom">
           <a href="../pages/patents.html">Read more</a>
         </div>
@@ -68,7 +68,7 @@
         <div class="details">
           <span class="title">Journals</span>
         </div>
-        <p>1. Lorem ipsum dolor Paper 1</p>
+        <p>"Exploring HW/SW Co-Design for Video Analysis on CPU-FPGA Heterogeneous Systems", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021</p>
         <div class="bottom">
           <a href="../pages/journals.html">Read more</a>
         </div>
@@ -80,7 +80,7 @@
         <div class="details">
           <span class="title">Conferences</span>
         </div>
-        <p>1. Lorem ipsum dolor Paper 1</p>
+        <p>"HiKonv: High Throughput Quantized Convolution With Novel Bit-wise Management And Computation," The 27th Asia and South Pacific Design Automation Conference (ASP-DAC), 2022</p>
         <div class="bottom">
           <a href="../pages/conferences.html">Read more</a>
         </div>
@@ -92,7 +92,7 @@
         <div class="details">
           <span class="title">Workshops</span>
         </div>
-        <p>1. Lorem ipsum dolor Paper 1</p>
+        <p>"Pseudo-IoU: Improving Sample Assignment in Anchor-Free Object Detection," The 33rd IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Collocated Mobile AI Workshop and Challenges (MAI), 2021</p>
         <div class="bottom">
           <a href="../pages/workshops.html">Read more</a>
         </div>
@@ -104,7 +104,7 @@
         <div class="details">
           <span class="title">Invited Papers</span>
         </div>
-        <p>1. Lorem ipsum dolor Paper 1</p>
+        <p>"Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs," The 2021 International Conference On Computer Aided Design (ICCAD), 2021</p>
         <div class="bottom">
           <a href="../pages/invitedpapers.html">Read more</a>
         </div>
@@ -116,7 +116,7 @@
         <div class="details">
           <span class="title">Books & Chapters</span>
         </div>
-        <p>1. Lorem ipsum dolor Paper 1</p>
+        <p>Machine learning for VLSI chip testing and semiconductor manufacturing process monitoring and improvement," Chapter in Machine Learning in VLSI Computer-Aided Design, edited by I. Elfadel, D. Boning and X. Li, 2019 Springer</p>
         <div class="bottom">
           <a href="../pages/bookchapters.html">Read more</a>
         </div>
