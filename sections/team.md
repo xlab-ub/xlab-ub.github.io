@@ -28,6 +28,14 @@
         <span data-bs-toggle="tooltip" data-bs-html="true" data-bs-custom-class="custom-info-tooltip" title="<p class='text-left text-warning mb-0'>&#99;&#104;&#97;&#110;&#103;&#106;&#97;&#101;&#64;&#98;&#117;&#102;&#102;&#97;&#108;&#111;&#46;&#101;&#100;&#117;</p>" class="info-button d-inline-block float-end"><i class="fa-solid fa-circle-info fa-lg fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i></span>
       </div>
     </div>
+  <!-- </div>
+  <div class="col"> -->
+    <div class="card-team"><img src="./img/team/Jiajie-Li.jpg" />
+      <div class="Jiajie Li">
+        <h1>Changjae Lee</h1>
+        <span data-bs-toggle="tooltip" data-bs-html="true" data-bs-custom-class="custom-info-tooltip" title="<p class='text-left text-warning mb-0'>&#99;&#104;&#97;&#110;&#103;&#106;&#97;&#101;&#64;&#98;&#117;&#102;&#102;&#97;&#108;&#111;&#46;&#101;&#100;&#117;</p>" class="info-button d-inline-block float-end"><i class="fa-solid fa-circle-info fa-lg fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i></span>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -63,14 +71,6 @@
       <div class="info">
         <h1>Paritosh Katre</h1>
         <a href="https://katreparitosh.github.io/" target="_blank">GitHub <i class="fa-solid fa-caret-right"></i></a> <span data-bs-toggle="tooltip" data-bs-html="true" data-bs-custom-class="custom-info-tooltip" title="<p class='text-left text-warning'>&#107;&#97;&#116;&#114;&#101;&#112;&#97;&#114;&#105;&#116;&#111;&#115;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</p><hr class='mt-0'><p class='text-left'>Interested in NLP, Language Science, and Applied ML.</p>" class="info-button d-block float-end"><i class="fa-solid fa-circle-info fa-lg fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i></span>
-      </div>
-    </div>
-  <!-- </div>
-  <div class="col"> -->
-    <div class="card-team"><img src="./img/team/Jiajie-Li.jpg" />
-      <div class="info">
-        <h1>Jiajie Li</h1>
-        <span data-bs-toggle="tooltip" data-bs-html="true" data-bs-custom-class="custom-info-tooltip" title="<p class='text-left text-warning mb-0'>&#108;&#106;&#106;&#115;&#97;&#108;&#116;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</p>" class="info-button d-block float-end"><i class="fa-solid fa-circle-info fa-lg fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i></span>
       </div>
     </div>
   </div> 
