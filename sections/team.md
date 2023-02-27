@@ -14,14 +14,6 @@
 <div class="text-center mt-5"><div class="block-title mt-5"><h3>Ph.D. Students</h3></div></div>
 <div class="row row-cols-auto g-4 justify-content-center">
   <div style="display:flex;">
-    <div class="card-team"><img src="./img/team/Yuting-Hu2.jpeg" style="flex: 1;" />
-      <div class="info">
-        <h1>Yuting Hu</h1>
-        <a href="https://publons.com/researcher/4346993/yuting-hu/" target="_blank">Website <i class="fa-solid fa-caret-right"></i></a> <span data-bs-toggle="tooltip" data-bs-html="true" data-bs-custom-class="custom-info-tooltip" title="<p class='text-left text-warning'>&#121;&#104;&#117;&#53;&#52;&#64;&#98;&#117;&#102;&#102;&#97;&#108;&#111;&#46;&#101;&#100;&#117;</p><hr class='mt-0'><p class='text-left'>Work hard in silence. Let the success make the noise.</p>" class="info-button d-inline-block float-end"><i class="fa-solid fa-circle-info fa-lg fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i></span>
-      </div>
-    </div>
-  <!-- </div>
-  <div class="col"> -->
     <div class="card-team"><img src="./img/team/Changjae-Lee2.jpg" />
       <div class="info">
         <h1>Changjae Lee</h1>
@@ -31,9 +23,17 @@
   <!-- </div>
   <div class="col"> -->
     <div class="card-team"><img src="./img/team/Jiajie-Li.jpg" />
-      <div class="Jiajie Li">
-        <h1>Changjae Lee</h1>
+      <div class="Info">
+        <h1>Jiajie Li</h1>
         <span data-bs-toggle="tooltip" data-bs-html="true" data-bs-custom-class="custom-info-tooltip" title="<p class='text-left text-warning mb-0'>&#99;&#104;&#97;&#110;&#103;&#106;&#97;&#101;&#64;&#98;&#117;&#102;&#102;&#97;&#108;&#111;&#46;&#101;&#100;&#117;</p>" class="info-button d-inline-block float-end"><i class="fa-solid fa-circle-info fa-lg fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i></span>
+      </div>
+    </div>
+  <!-- </div>
+  <div class="col"> -->
+    <div class="card-team"><img src="./img/team/Yuting-Hu2.jpeg" style="flex: 1;" />
+      <div class="info">
+        <h1>Yuting Hu</h1>
+        <a href="https://publons.com/researcher/4346993/yuting-hu/" target="_blank">Website <i class="fa-solid fa-caret-right"></i></a> <span data-bs-toggle="tooltip" data-bs-html="true" data-bs-custom-class="custom-info-tooltip" title="<p class='text-left text-warning'>&#121;&#104;&#117;&#53;&#52;&#64;&#98;&#117;&#102;&#102;&#97;&#108;&#111;&#46;&#101;&#100;&#117;</p><hr class='mt-0'><p class='text-left'>Work hard in silence. Let the success make the noise.</p>" class="info-button d-inline-block float-end"><i class="fa-solid fa-circle-info fa-lg fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i></span>
       </div>
     </div>
   </div>
