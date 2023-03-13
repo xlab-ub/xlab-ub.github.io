@@ -30,6 +30,22 @@
     </div>
   <!-- </div>
   <div class="col"> -->
+    <div class="card-team"><img src="./img/team/Amir.png" />
+      <div class="info">
+        <h1>Amir Nassereldine</h1>
+        <span data-bs-toggle="tooltip" data-bs-html="true" data-bs-custom-class="custom-info-tooltip" title="<p class='text-left text-warning mb-0'>&#99;&#104;&#97;&#110;&#103;&#106;&#97;&#101;&#64;&#98;&#117;&#102;&#102;&#97;&#108;&#111;&#46;&#101;&#100;&#117;</p>" class="info-button d-inline-block float-end"><i class="fa-solid fa-circle-info fa-lg fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i></span>
+      </div>
+    </div>
+  <!-- </div>
+  <div class="col"> -->
+    <div class="card-team"><img src="./img/team/Ali.png" />
+      <div class="info">
+        <h1>Ali Mohammad Mohammadi</h1>
+        <span data-bs-toggle="tooltip" data-bs-html="true" data-bs-custom-class="custom-info-tooltip" title="<p class='text-left text-warning mb-0'>&#99;&#104;&#97;&#110;&#103;&#106;&#97;&#101;&#64;&#98;&#117;&#102;&#102;&#97;&#108;&#111;&#46;&#101;&#100;&#117;</p>" class="info-button d-inline-block float-end"><i class="fa-solid fa-circle-info fa-lg fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i></span>
+      </div>
+    </div>
+  <!-- </div>
+  <div class="col"> -->
     <div class="card-team"><img src="./img/team/Yuting-Hu2.jpeg" style="flex: 1;" />
       <div class="info">
         <h1>Yuting Hu</h1>
